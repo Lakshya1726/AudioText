@@ -1,5 +1,5 @@
 streamlit==1.10.0
-scipy==1.7.1
+scipy.io==1.7.1
 numpy==1.21.2
 soundfile==0.10.3.post1
 librosa==0.8.1
